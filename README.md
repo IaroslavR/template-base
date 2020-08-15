@@ -1,2 +1,2 @@
 # template-base
-Minimal repo template
+Minimal GitHub repo template
